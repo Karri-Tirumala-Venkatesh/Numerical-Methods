@@ -7,4 +7,5 @@ This Numerical Methods Repository consists of codes for solving Simultaneous Lin
 # Numerical Methods for solving Ordinary Differential Equations
 - Picad's Method, When the derivative of a function is a 2 Variable Polynomial
 - 4th Order - Runge Kutta Method, to solve for Numerical Solution of an Ordinary Differential Equation
+- Euler's Method to solve for the Numerical Solution of Ordinary Differential Equation
 - Euler Modified Method to solve for the Numerical Solution of Ordinary Differential Equation
